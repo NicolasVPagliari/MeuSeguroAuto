@@ -1,3 +1,5 @@
+package com.github.nicolasvpagliari.meuseguroauto.components
+
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.ExperimentalMaterial3Api

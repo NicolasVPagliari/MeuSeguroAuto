@@ -1,4 +1,4 @@
-package com.github.nicolasvpagliari.meuseguroauto.Components
+package com.github.nicolasvpagliari.meuseguroauto.components
 
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.MaterialTheme

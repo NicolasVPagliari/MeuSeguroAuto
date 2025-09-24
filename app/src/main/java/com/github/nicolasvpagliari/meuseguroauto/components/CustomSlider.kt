@@ -1,4 +1,4 @@
-package com.github.nicolasvpagliari.meuseguroauto.Components
+package com.github.nicolasvpagliari.meuseguroauto.components
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Row

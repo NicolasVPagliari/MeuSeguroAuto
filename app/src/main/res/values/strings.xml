@@ -6,4 +6,15 @@
     <string name="label_phone">Telefone</string>
     <string name="label_plan">Plano</string>
     <string name="label_age">Idade</string>
+    <string name="label_discount">Desconto</string>
+    <string name="label_has_garage">Tem garagem?</string>
+    <string name="label_comercial_use">Uso comercial?</string>
+    <string name="label_life_insurance">Seguro de vida</string>
+    <string
+        name="label_accepts_marketing_communication">Aceito receber informações por e-mail ou WhatsApp</string>
+    <string name="label_quote_summary">Resumo da cotação</string>
+    <string name="label_estimated_monthly">Mensalidade estimada</string>
+    <string name="price_with_label">Valores indicativos: R$%.2f</string>
+    <string name="label_reference_values">*Valores indicativos. Sujeitos a análise e variações regionais.</string>
+
 </resources>
